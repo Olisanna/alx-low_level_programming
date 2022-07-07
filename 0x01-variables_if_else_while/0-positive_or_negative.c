@@ -5,7 +5,7 @@
  * main - main block
  * Description: Get a random number and print the number
  * and if it is positive, negative, or zero
- * Return: zero 
+ * Return: zero is the value. 
  */
 int main(void)
 {

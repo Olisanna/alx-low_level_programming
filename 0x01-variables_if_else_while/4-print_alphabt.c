@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-*main - assign a random number to the variable n each time it is executed*and print the number stored in the variable n
+*main - assign a random number to the variable n each time it is executed
+*and print the number stored in the variable n
 *Return: Always 0 (Success)
 */
 

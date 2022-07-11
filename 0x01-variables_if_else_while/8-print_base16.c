@@ -2,7 +2,7 @@
 
 /**
  * main - assign a random mumber to the varible n
- * each time it gets executed and print the last 
+ * each time it gets executed and print the last
  * digit of the number stored in the variable n
  * Return: Always 0 (Success)
  */

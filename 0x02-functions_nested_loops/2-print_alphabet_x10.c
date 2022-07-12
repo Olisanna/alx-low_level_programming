@@ -2,6 +2,7 @@
 
 /**
  * print_alphabetx_10 -> prints the lowercase
+ * Return: always 0 (Success)
  */
 
 void print_alphabet_x10(void)
@@ -11,7 +12,7 @@ void print_alphabet_x10(void)
 
 	for (x = 0; x < 10; x++)
 	{
-		for (j ='a'; j <= 'z'; j++)
+		for (j = 'a'; j <= 'z'; j++)
 		{
 			_putchar(j);
 		}
